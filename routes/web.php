@@ -16,5 +16,6 @@ Route::get('/', function () {
 });
 
 Route::get('/about', function () {
-    return view('about');
+	$nama = 'Syahrul Andri Permana';
+    return view('about', ['nama' => $nama]);
 });

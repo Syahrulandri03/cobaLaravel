@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-    <title>WEB PROGRAMING UNPAS</title>
+    <title>About</title>
   </head>
   <body>
 
@@ -22,8 +22,8 @@
     <div class="navbar-nav">
 
               <a class="nav-item nav-link active" href="/">Home</a>
-              <a class="nav-item nav-link" href="/about">About</a>
-              <a class="nav-item nav-link" href="/mahasiswa">Mahasiswa</a>
+              <a class="nav-item nav-link" href="/About">About</a>
+              <a class="nav-item nav-link" href="/Mahasiswa">Mahasiswa</a>
             
     </div>
   </div>
@@ -34,7 +34,7 @@
     <div class="row">
         <div class="col-10">
             
-            <h1 class="mt-3">Hello, world!</h1>
+            <h1 class="mt-3">Hello, Syahrul Andri Permana!</h1>
 
         </div>
     </div>

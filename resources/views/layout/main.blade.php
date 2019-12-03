@@ -30,7 +30,7 @@
   </div>
 </nav>
 
-@yield('container');
+@yield('container')
     
 
     <!-- Optional JavaScript -->

@@ -1,3 +1,8 @@
+@extends('layout/main')
+
+@seaction('title', 'WEB PROGRAMMING UNPAS')
+
+@section('container')
 <div class="container">
     <div class="row">
         <div class="col-10">
@@ -7,6 +12,7 @@
         </div>
     </div>
 </div>
+@endsection
     
 
    
